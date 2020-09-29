@@ -1,0 +1,16 @@
+{
+    "name": "Motivational Quotes",
+    "version": "1.0.0",
+    "description": "Random Quotes",
+    "manifest_version": 2,
+    "icons": {
+        "16": "images/smile-16.png",
+        "32": "images/smile-32.png",
+        "48": "images/smile-48.png",
+        "128": "images/smile-128.png"
+      },
+    "browser_action": {
+        "default_icon": "images/smile-150.png",
+        "default_popup": "popup.html"
+    }
+}
